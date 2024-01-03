@@ -1,7 +1,5 @@
 # ResourceAllocationV2X
----
-Notes: I'm now a Professor in Southeast University 东南大学, Nanjing, China. Please check out our new GitHub page for more updates: https://github.com/lianggroup
----
+
 This project contains MATLAB codes for the following paper. Please consider citing the paper if you find it of any help.  
 
 L. Liang, G. Y. Li, and W. Xu "Resource allocation for D2D-enabled vehicular communications," IEEE Transactions on Communications, vol. 65, no. 7, pp. 3186-3197, Jul. 2017.
